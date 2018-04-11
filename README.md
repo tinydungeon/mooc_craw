@@ -1,0 +1,2 @@
+# mooc_craw
+使用scrapy框架爬取MOOC网站上的基本课程信息
